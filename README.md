@@ -1,4 +1,4 @@
-# Clean Architecture Solution Template - React Js
+# .Net 7 - React Js - Mobx - .Net 7 - Entity Frame Code First - Docker - PostGreSql
 
 https://www.youtube.com/watch?v=Zx-ySXWaZP4
 
