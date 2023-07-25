@@ -1,4 +1,7 @@
 # Clean Architecture Solution Template - React Js
+
+https://www.youtube.com/watch?v=Zx-ySXWaZP4
+
 The structure is being established...
 # Prerequisites
 .NET 7.0 Runtime
