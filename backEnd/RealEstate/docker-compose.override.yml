@@ -1,0 +1,44 @@
+version: '3.4'
+
+networks:
+  dockerapi-dev:
+    driver: bridge
+
+services:
+  realestate.webapi:
+    container_name: realestatewebapi
+    depends_on:
+      - "postgres_image"
+    ports:
+      - "80"
+      - "44334:80"
+    restart: always
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+      - AppOptions__ConnectionString=User ID =admin;Password=1234;Server=realestatepostgres;Port=5432;Database=realEstatedb;Integrated Security=true;Pooling=true;
+    volumes:
+      - ~/.aspnet/https:/root/.aspnet/https:ro
+      - ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+    networks:
+      - dockerapi-dev
+
+  postgres_image:
+    container_name: realestatepostgres
+    image: postgres:15.3
+    ports:
+      - "5426:5432"
+    restart: always 
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=1234
+      - POSTGRES_DB=realEstatedb
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      - realestate-pgdata:/var/lib/postgresql/data
+    networks:
+      - dockerapi-dev
+
+volumes:
+  realestate-pgdata: 
+  realestate-seq-data:

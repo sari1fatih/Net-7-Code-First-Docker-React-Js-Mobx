@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  realestate.webapi:
+    image: ${DOCKER_REGISTRY-}realestate
+    build:
+      context: .
+      dockerfile: src/Web/RealEstate.WebAPI/Dockerfile

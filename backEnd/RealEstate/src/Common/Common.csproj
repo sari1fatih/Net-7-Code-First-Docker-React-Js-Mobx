@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Classes\" />
+    <None Remove="Enums\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Interfaces\Filters\" />
+    <None Remove="Enums\EntityGroup\" />
+    <None Remove="Classes\ApplicationSettings\" />
+    <None Remove="Classes\BaseLimits\" />
+    <None Remove="Classes\Exceptions\" />
+    <None Remove="Classes\Extensions\" />
+    <None Remove="Classes\Queries\" />
+    <None Remove="Classes\Wrappers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Classes\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\Filters\" />
+    <Folder Include="Enums\EntityGroup\" />
+    <Folder Include="Classes\ApplicationSettings\" />
+    <Folder Include="Classes\BaseLimits\" />
+    <Folder Include="Classes\Exceptions\" />
+    <Folder Include="Classes\Extensions\" />
+    <Folder Include="Classes\Queries\" />
+    <Folder Include="Classes\Wrappers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="7.0.4" />
+  </ItemGroup>
+</Project>
