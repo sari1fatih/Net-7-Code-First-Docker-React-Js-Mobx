@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj": {}
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj": {}
   },
   "projects": {
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj": {
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj",
+        "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj",
         "projectName": "Bootstrapper",
-        "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj",
+        "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj",
         "packagesPath": "/Users/pragmuti/.nuget/packages/",
-        "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/obj/",
+        "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -27,11 +27,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj": {
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj",
+        "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj",
         "projectName": "Common",
-        "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj",
+        "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj",
         "packagesPath": "/Users/pragmuti/.nuget/packages/",
-        "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/obj/",
+        "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -143,14 +143,14 @@
         }
       }
     },
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj": {
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
+        "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
         "projectName": "RealEstate.Application",
-        "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
+        "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
         "packagesPath": "/Users/pragmuti/.nuget/packages/",
-        "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/obj/",
+        "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -166,11 +166,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
+        "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
         "projectName": "RealEstate.Domain",
-        "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
+        "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
         "packagesPath": "/Users/pragmuti/.nuget/packages/",
-        "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/obj/",
+        "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -276,14 +276,14 @@
         }
       }
     },
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj": {
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj",
+        "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj",
         "packagesPath": "/Users/pragmuti/.nuget/packages/",
-        "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/obj/",
+        "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -299,14 +299,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj"
               }
             }
           }
@@ -378,14 +378,14 @@
         }
       }
     },
-    "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj": {
+    "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj",
+        "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj",
         "projectName": "RealEstate.WebAPI",
-        "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj",
+        "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj",
         "packagesPath": "/Users/pragmuti/.nuget/packages/",
-        "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Web/RealEstate.WebAPI/obj/",
+        "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Web/RealEstate.WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -402,17 +402,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj"
               },
-              "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj"
+              "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Infrastructure/Persistence/Persistence.csproj"
               }
             }
           }

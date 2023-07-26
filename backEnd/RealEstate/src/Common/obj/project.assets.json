@@ -4068,11 +4068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj",
+      "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj",
       "projectName": "Common",
-      "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj",
+      "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj",
       "packagesPath": "/Users/pragmuti/.nuget/packages/",
-      "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/obj/",
+      "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pragmuti/.nuget/NuGet/NuGet.Config"

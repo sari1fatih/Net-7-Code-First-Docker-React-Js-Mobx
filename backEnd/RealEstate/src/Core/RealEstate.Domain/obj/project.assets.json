@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
+      "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
       "projectName": "RealEstate.Domain",
-      "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
+      "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj",
       "packagesPath": "/Users/pragmuti/.nuget/packages/",
-      "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/obj/",
+      "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pragmuti/.nuget/NuGet/NuGet.Config"

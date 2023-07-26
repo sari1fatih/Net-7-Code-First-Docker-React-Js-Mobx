@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xMU3zWXsnvTbwz2Y2kQedRL8K9H9sqD4+pJQIgDLNQdrlzxn+GArVIEDxBwQPEvZLwXTVSOZwwDcAZPMc1yeHg==",
+  "dgSpecHash": "9NZT8I8885ThXCtKC/1jkrbGkNRer2e8kbeaNkYOS31qG+pK2jvr7XYGEVecFzvPd0FqE+iOXa0KRnVoYTYsXg==",
   "success": true,
-  "projectFilePath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj",
+  "projectFilePath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj",
   "expectedPackageFiles": [
     "/Users/pragmuti/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/Users/pragmuti/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

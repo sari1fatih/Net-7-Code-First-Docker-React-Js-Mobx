@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8cFn8JS4rIGcvC4snR7CrBhmC31IGl4th8ALe54OvJyQVEqgGqe2Es46DQ5uAhLmc/P9rZLMDIkoUYNbUwizA==",
+  "dgSpecHash": "9N44/NLrHSgNHJbd3A1OwRQQ5kzwEAlmMeNC5j4i7dl8k0lJBXM6ThtdvvSE5N5yG9VcJvf+tQGepNqjD5ty8A==",
   "success": true,
-  "projectFilePath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj",
+  "projectFilePath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Bootstrapper/Bootstrapper.csproj",
   "expectedPackageFiles": [
     "/Users/pragmuti/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/pragmuti/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

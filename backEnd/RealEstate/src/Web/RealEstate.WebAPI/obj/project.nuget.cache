@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46lrhZflEF5hSjrtk9AMBS2ExEeZZuYACsZer0olTA5gTAY6I0JiU07Jb5IpMpEKO8LEqbQAeRTHk+2yrq0Z1Q==",
+  "dgSpecHash": "zdDGrE7HUPfA8q7AdpOah5z9aQrO00GTrWIFOFGLuDX0FVOPsZnps8mcARc6i5C4p9xZKv7Gs9WrTTC/yszUeQ==",
   "success": true,
-  "projectFilePath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj",
+  "projectFilePath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Web/RealEstate.WebAPI/RealEstate.WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/pragmuti/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/pragmuti/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

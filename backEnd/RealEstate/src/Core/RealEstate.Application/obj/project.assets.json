@@ -3526,11 +3526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
+      "projectUniqueName": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
       "projectName": "RealEstate.Application",
-      "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
+      "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/RealEstate.Application.csproj",
       "packagesPath": "/Users/pragmuti/.nuget/packages/",
-      "outputPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Application/obj/",
+      "outputPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pragmuti/.nuget/NuGet/NuGet.Config"
@@ -3546,11 +3546,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj": {
-              "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Common/Common.csproj"
+            "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj": {
+              "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Common/Common.csproj"
             },
-            "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
-              "projectPath": "/Users/pragmuti/Calismalarim/workspaces/c#/RealEstate/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj"
+            "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj": {
+              "projectPath": "/Users/pragmuti/Desktop/yeni/Net-7-Code-First-Docker-React-Js-Mobx/backEnd/RealEstate/src/Core/RealEstate.Domain/RealEstate.Domain.csproj"
             }
           }
         }

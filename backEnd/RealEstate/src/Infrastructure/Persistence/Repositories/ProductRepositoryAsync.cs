@@ -36,12 +36,12 @@ namespace Persistence.Repositories
                          ) &&
                          (
                            (getAllProductQuery.minPrice == 0 && getAllProductQuery.maxPrice == 0) ||
-                           (getAllProductQuery.maxPrice!=0  && getAllProductQuery.minPrice == 0 && p.price <= getAllProductQuery.maxPrice) ||
-                           (getAllProductQuery.minPrice!=0 && getAllProductQuery.minPrice >= p.price && p.price == 0) ||
-                           (getAllProductQuery.minPrice != 0 && getAllProductQuery.maxPrice != 0 && getAllProductQuery.minPrice >= p.price && p.price <= getAllProductQuery.maxPrice)
+                           (getAllProductQuery.maxPrice != 0 && getAllProductQuery.minPrice == 0 && p.price <= getAllProductQuery.maxPrice) ||
+                           (getAllProductQuery.minPrice != 0 && getAllProductQuery.maxPrice == 0 && getAllProductQuery.minPrice <= p.price) ||
+                           (getAllProductQuery.minPrice != 0 && getAllProductQuery.maxPrice != 0 && getAllProductQuery.minPrice <= p.price && p.price <= getAllProductQuery.maxPrice)
                          ) &&
 
-                         (                            
+                         (
                             (
                                 getAllProductQuery.buildingAgeEnum == null ||
 
@@ -90,7 +90,7 @@ namespace Persistence.Repositories
 
                            (
                                 getAllProductQuery.numberOfRoomsEnum != null &&
-                                
+
 
                                 getAllProductQuery.numberOfRoomsEnum.Contains(p.numberOfRoomsEntityId)
                            )
