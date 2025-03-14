@@ -7,7 +7,9 @@
 
 Docker
 
-    To start up the web API and the database
+  Go to the command directory backEnd/RealEstate
+
+  Run the following commands in order.
    
    ```ruby
    docker-compose build
