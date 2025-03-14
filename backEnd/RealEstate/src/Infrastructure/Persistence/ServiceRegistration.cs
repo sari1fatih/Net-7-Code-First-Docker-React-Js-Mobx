@@ -20,7 +20,7 @@ namespace Persistence
                     appOptions?.ConnectionString ?? "",
                     b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName))
             );
-
+            services.UseMigration();
             services.AddTransient(typeof(IGenericRepositoryAsync<>), typeof(GenericRepositoryAsync<>));
             services.AddTransient<IEntityRepositoryAsync, EntityRepositoryAsync>();
             services.AddTransient<IEntityGroupRepositoryAsync, EntityGroupRepositoryAsync>();

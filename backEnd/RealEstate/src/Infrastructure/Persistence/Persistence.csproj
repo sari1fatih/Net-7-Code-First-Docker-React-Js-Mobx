@@ -19,7 +19,6 @@
     <Folder Include="ControllerBase\" />
     <Folder Include="Generate\" />
     <Folder Include="Repositories\" />
-    <Folder Include="Contexts\" />
     <Folder Include="Filters\" />
     <Folder Include="Log\" />
     <Folder Include="Log\Serilog\" />

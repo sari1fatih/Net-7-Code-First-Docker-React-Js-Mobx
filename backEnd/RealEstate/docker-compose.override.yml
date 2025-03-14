@@ -7,8 +7,6 @@ networks:
 services:
   realestate.webapi:
     container_name: realestatewebapi
-    depends_on:
-      - "postgres_image"
     ports:
       - "80"
       - "44334:80"
@@ -22,6 +20,9 @@ services:
       - ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
     networks:
       - dockerapi-dev
+    depends_on:
+      postgres_image:
+        condition: service_healthy
 
   postgres_image:
     container_name: realestatepostgres
@@ -38,6 +39,11 @@ services:
       - realestate-pgdata:/var/lib/postgresql/data
     networks:
       - dockerapi-dev
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres" ]
+      interval: 10s
+      retries: 5
+      start_period: 10s
 
 volumes:
   realestate-pgdata: 
