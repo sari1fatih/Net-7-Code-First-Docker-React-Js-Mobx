@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NpgsqlTypes;
 using Persistence;
-using Persistence.Log.Serilog;
+using Persistence.CustomLog.Serilog;
 using RealEstate.Application;
 using Serilog;
 using Serilog.Core;

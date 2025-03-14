@@ -20,8 +20,6 @@
     <Folder Include="Generate\" />
     <Folder Include="Repositories\" />
     <Folder Include="Filters\" />
-    <Folder Include="Log\" />
-    <Folder Include="Log\Serilog\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\RealEstate.Domain\RealEstate.Domain.csproj" />
