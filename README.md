@@ -1,15 +1,15 @@
 # .Net 7 - React Js - Mobx - .Net 7 - Entity Frame Code First - Docker - PostGreSql
 
-https://www.youtube.com/watch?v=Zx-ySXWaZP4
+[Preview](https://www.youtube.com/watch?v=Zx-ySXWaZP4)
+
 
 The structure is being established...
 # Prerequisites
-.NET 7.0 Runtime
 Node.js version > 17
 
 Docker
 
-For Database Migration:
+ 
   ### BackEnd:
    To start up the web API and the database
    
@@ -19,23 +19,6 @@ For Database Migration:
    ```ruby
    docker-compose up
    ``` 
-  
-  To create tables in the database.In the terminal go to the directory.
-  ```ruby
-  src/Web/RealEstate.WebAPI
-  ```   
-  
-  ### Second:
-  Run following code in Package Manager Console
-  ```ruby
-  Update-Database -Context ApplicationDbContext
-  ```
-  Or 
-
-  Run following code in 
-  ```ruby
-  dotnet ef database update --context ApplicationDbContext
-  ```
 
   ### FrontEnd:
 
