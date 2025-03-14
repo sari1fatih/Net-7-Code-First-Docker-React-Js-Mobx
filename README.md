@@ -3,7 +3,6 @@
 [Preview](https://www.youtube.com/watch?v=Zx-ySXWaZP4)
 
 
-The structure is being established...
 # Prerequisites
 Node.js version > 17
 
@@ -17,7 +16,7 @@ Docker
    docker-compose build
    ```
    ```ruby
-   docker-compose up
+   docker-compose up -d
    ``` 
 
   ### FrontEnd:
