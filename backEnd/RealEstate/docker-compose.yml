@@ -6,3 +6,8 @@ services:
     build:
       context: .
       dockerfile: src/Web/RealEstate.WebAPI/Dockerfile
+      
+  frontend:
+    build:
+      context: ../../frontEnd/real-estate
+      dockerfile: Dockerfile

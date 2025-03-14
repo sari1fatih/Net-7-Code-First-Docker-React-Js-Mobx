@@ -22,7 +22,13 @@ services:
       - dockerapi-dev
     depends_on:
       postgres_image:
-        condition: service_healthy
+        condition: service_healthy 
+
+  frontend:
+    depends_on:
+      - realestate.webapi
+    ports:
+      - "3000:3000"
 
   postgres_image:
     container_name: realestatepostgres
