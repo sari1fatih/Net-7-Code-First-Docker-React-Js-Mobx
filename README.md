@@ -18,6 +18,7 @@ Docker
    docker-compose up -d
    ``` 
 
+You can check the running version of the application at [localhost:3000](http://localhost:3000).
 
   ## Technologies used:
 
