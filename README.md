@@ -4,13 +4,10 @@
 
 
 # Prerequisites
-Node.js version > 17
 
 Docker
 
- 
-  ### BackEnd:
-   To start up the web API and the database
+    To start up the web API and the database
    
    ```ruby
    docker-compose build
@@ -19,15 +16,6 @@ Docker
    docker-compose up -d
    ``` 
 
-  ### FrontEnd:
-
-  ```ruby
-  npm install
-  ```
-
-  ```ruby
-  npm run start
-  ```
 
   ## Technologies used:
 
